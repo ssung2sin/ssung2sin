@@ -16,8 +16,8 @@
 
 | 기간 | 내용 | 역할 |
 | --- | --- | ---|
-| 2023.09.01 ~ 2023.09.22| <a href="https://github.com/jooyoungsong/SemiProject">HYUGO</a> | 음식페이지 CRUD 구현 및 이메일 API 이용 |
-| 2023.11.12 ~ 2023.12.04| <a href="https://github.com/dawn-sh/sist_FinalProject">TRIVIEW</a> | 예약 로직 작성및 예약불가 날짜 로직 작성 |
+| 2023.09.01 ~ 2023.09.22| <a href="https://github.com/ssung2sin/SemiProject">HYUGO</a> | 음식페이지 CRUD 구현 및 이메일 API 이용 |
+| 2023.11.12 ~ 2023.12.04| <a href="https://github.com/ssung2sin/sist_FinalProject">TRIVIEW</a> | 예약 로직 작성및 예약불가 날짜 로직 작성 |
 
 
 
