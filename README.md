@@ -32,6 +32,7 @@
          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">            
         <br/><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
 </div>
 
 <h3>⚒ Backend </h3>
@@ -52,6 +53,7 @@
 <h2>📝 Contact me </h2>
 <div>
 <a href="https://github.com/ssung2sin/"><img alt="RED" src ="https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="mailto:ssung2sin@naver.com/"><img alt="Email" src ="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"?\/></a>
 
 </div><br/>
 
